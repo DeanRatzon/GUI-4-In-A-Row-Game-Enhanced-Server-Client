@@ -1,0 +1,121 @@
+What is 1+1 ?
+2
+1
+4
+3
+0
+What is the Capital City of Israel?
+Jerusalem
+Tel Aviv
+Haifa
+Eilat
+0
+What is 49/7 ?
+7
+13
+6
+9
+0
+Who invented the Light Bulb?
+Thomas Eddison
+Benjamin Franklin
+Nicola Tesla
+Alexander Flemming
+0
+What is 300\10 ?
+30
+11
+35
+27
+0
+How many weeks are in a full year?
+52
+49
+51
+48
+0
+What is the Highest Mountain it the world?
+Mount Everest
+Mount Hermon
+Mount Annapurna
+Mount Kangchenjunga
+0
+What animal group does the Whale belong to?
+Mammals
+Birds
+Reptiles
+Amphibians
+0
+What Color do you get by mixing Blue and Red?
+Purple
+Orange
+Green
+Pink
+0
+In what year was the Turing Machine invented?
+1936
+1972
+1943
+1921
+0
+How many Meters is one Kilometer?
+1000
+100
+10
+10000
+0
+Which of the following is an itain dish?
+Pizza
+Hummus
+Sushi
+Hamburger
+0
+What is the capital city of Texas?
+Austin
+Dallas
+Houston
+San Antonio
+0
+What Animal has Black and White stripes on its body?
+Zebra
+Kangaroo
+Rhino
+Horse
+0
+How many Pounds are in 1 Kilogram?
+2.2
+1.9
+1.5
+2.6
+0
+Which of the following is a Computer Manufacturer company?
+Lenovo
+Logitech
+JBL
+Bose
+0
+How many rings are in the olympic symbol?
+5
+4
+6
+7
+0
+What is Van Goh's private name?
+VIncent
+Hammond
+Ludwig
+Pablo
+0
+Which of the following in a result of an Exponentiation of a number?
+81
+46
+124
+11
+0
+How many tiles are in a full Piano?
+88
+25
+174
+34
+0
+
